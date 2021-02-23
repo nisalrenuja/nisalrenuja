@@ -56,7 +56,7 @@
             src="https://img.icons8.com/color/100/000000/python.png" alt="python"
             width="40" height="40" /> </a>
             <a href="https://www.java.com/en/" target="_blank"> <img
-            src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png>" alt="java"
+            src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png" alt="java"
             width="40" height="40" /> </a>
             <!--- <a href="https://www.gatsbyjs.com/" target="_blank"> <img
                  src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="React" width="40" height="40" /></a>
