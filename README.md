@@ -37,7 +37,7 @@
         width="40" /></a>
 </p>
 <hr>
-<!---<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <a href="https://www.w3.org/html/" target="_blank"> <img
             src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html5"
@@ -50,24 +50,24 @@
         target="_blank"> <img
             src="https://img.icons8.com/color/48/000000/javascript.png"
             alt="javascript" width="40" height="40" /> </a>
-             <a href="https://reactjs.org/" target="_blank"> <img
+            <!--- <a href="https://reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
              <a href="https://www.gatsbyjs.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="React" width="40" height="40" /></a>
              <a href="https://graphql.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="React" width="40" height="40" /></a>
     <a href="https://firebase.google.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-            <a href="https://www.mongodb.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> ---->
+    <!---<a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"
-            width="40" height="40" /> </a> 
-    <a href="https://www.netlify.com/" target="_blank"> <img
+            width="40" height="40" /> </a> ---->
+   <!--- <a href="https://www.netlify.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"
             height="40" /> </a> -->
-            <!--- <a href="https://code.visualstudio.com/" target="_blank">
+    <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" alt="vs-code"
             width="40" height="40" /> </a>
-            </p>  --->
+            </p>  
 <hr>
 
 <img
@@ -78,7 +78,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisalrenuja&layout=compact&theme=light)
 
 <!--
-**LayanJay/LayanJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nisalrenuja/nisalrenuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
