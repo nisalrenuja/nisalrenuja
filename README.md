@@ -47,17 +47,23 @@
             width="40" height="40" /> </a>
             <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="40" height="40" alt='bootstrap'/> </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"> <img
+            target="_blank"> <img
             src="https://img.icons8.com/color/48/000000/javascript.png"
             alt="javascript" width="40" height="40" /> </a>
-            <!--- <a href="https://reactjs.org/" target="_blank"> <img
+             <a href="https://reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
-             <a href="https://www.gatsbyjs.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="React" width="40" height="40" /></a>
-             <a href="https://graphql.org/" target="_blank"> <img
+            <a href="https://www.w3.org/html/" target="_blank"> <img
+            src="https://img.icons8.com/color/100/000000/python.png"/>" alt="python"
+            width="40" height="40" /> </a>
+            <a href="https://www.java.com/en/" target="_blank"> <img
+            src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png>" alt="java"
+            width="40" height="40" /> </a>
+            <!--- <a href="https://www.gatsbyjs.com/" target="_blank"> <img
+                 src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="React" width="40" height="40" /></a>
+             <a href="https://graphql.org/" target="_blank"> <img 
             src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="React" width="40" height="40" /></a>
-    <a href="https://firebase.google.com/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> ---->
+    <a href="https://firebase.google.com/" target="_blank"> <img 
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> --->
     <!---<a href="https://www.mongodb.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb"
             width="40" height="40" /> </a> ---->
