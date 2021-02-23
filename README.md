@@ -76,11 +76,11 @@
             </p>  
 <hr>
 
-<img
+<!---<img
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=nisalrenuja&show_icons=true&count_private=true&hide=issues&theme=light&include_all_commits=true"
-    />
-
+    />  ---->
+![NisalRenuja's github stats](https://github-readme-stats.vercel.app/api?username=nisalrenuja&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nisalrenuja&layout=compact&theme=light)
 
 <!--
