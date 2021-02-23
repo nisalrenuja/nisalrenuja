@@ -1,4 +1,4 @@
-## `console.log("Hey there 👋");`
+## `console.log("Hey I'm Nisal Palliyaguru 👋");`
 
 [![GitHub: @nisalrenuja](https://img.shields.io/github/followers/nisalrenuja?color=green&logo=github&style=flat-square)](https://github.com/nisalrenuja)
 
