@@ -53,7 +53,7 @@
              <a href="https://reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
             <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://img.icons8.com/color/100/000000/python.png"/>" alt="python"
+            src="https://img.icons8.com/color/100/000000/python.png" alt="python"
             width="40" height="40" /> </a>
             <a href="https://www.java.com/en/" target="_blank"> <img
             src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.png>" alt="java"
