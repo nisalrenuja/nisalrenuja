@@ -64,7 +64,7 @@
     <a href="https://www.netlify.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"
             height="40" /> </a> -->
-            <!---> <a href="https://code.visualstudio.com/" target="_blank">
+            <!--- <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" alt="vs-code"
             width="40" height="40" /> </a>
             </p>  --->
