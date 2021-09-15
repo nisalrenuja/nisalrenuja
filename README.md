@@ -3,7 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-I am an undergraduate👨🏻‍🎓 who is a self-motivated and hard-working🧗🏻 individual seeking experience in the field of Information Technology💻. I am reliable, dedicated, friendly😉, and able to work in a busy environment🙇🏻 and produce high standards of work. I have a creative mind👨🏻‍🎨 and am always up for new challenges. I am an enthusiastic, responsible person who can work well both in a team environment🤪 as well as using my own initiative. I have good interpersonal, leadership skills🤗, and am keen and very willing to learn and develop new skills🕵🏻.
+ ```
+  For Academic Purposes
+  
+  Student IT :IT20281632
+  Student Name : Palliyaguru N.R.
+
+  ```
 
 
 [![Nisal's github activity graph](https://activity-graph.herokuapp.com/graph?username=nisalrenuja&theme=xcode)](https://git.io/nisalrenuja)
