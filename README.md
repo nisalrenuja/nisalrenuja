@@ -61,4 +61,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisalrenuja&theme=tokyonight" />
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nwnjwgnzl3mhwzmg5fb4t2lst&count=1&width=475)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=312kyqdptfy3hvky2gprkpfy4yle&count=1&width=475)
