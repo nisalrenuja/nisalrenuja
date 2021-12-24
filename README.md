@@ -59,6 +59,7 @@
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nisalrenuja&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nisalrenuja&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisalrenuja&layout=compact&theme=tokyonight" />
 </p>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312kyqdptfy3hvky2gprkpfy4yle&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=312kyqdptfy3hvky2gprkpfy4yle&redirect=true)
+	
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312kyqdptfy3hvky2gprkpfy4yle&cover_image=true&theme=default)
